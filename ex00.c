@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("It works!\n");
+    printf("\nID:69011361,pond\n\n");
     return 0;
 }
